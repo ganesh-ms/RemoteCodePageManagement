@@ -74,9 +74,11 @@ Microsoft Visual Studio 2017
 
 ## Developer info
 
-Ganesh Mamamatha Sheshappa 
+Ganesh Mamamatha Sheshapp, 
+
 ganeshms@live.com
 
 ## Instructor
-Dr. James W Fawcett
+Dr. James W Fawcett, 
+
 Syracuse University, NY
