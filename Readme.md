@@ -16,7 +16,7 @@ Files will be loaded when their names match a regular expression. That might be 
 ### Converts file into a webpage fragment:
 That entails creating a new file with the same name, but with an html extension. Contents of the source code file are copied directly to the html file.
 Then all html markup characters are replaced with their exscape sequence equivalents, e.g., < is replaced by &lt, etc.
-That text is prepended with "<pre>" and postpended with "</pre>". That ensures that the rendered text preserves all of the white space included in the original file.
+That text is prepended with "&ltpre&gt" and postpended with "&lt/pre&lt". That ensures that the rendered text preserves all of the white space included in the original file.
 ### Convert html fragment into a valid html document:
 This is done by adding template text (from a template file) for a head section and the beginning of the body. Finally a small piece of template code, read from a template file is added to the end of the html fragment text.
 At this point the file is viewable in a browser.
