@@ -76,7 +76,7 @@ Microsoft Visual Studio 2017
 
 ## Developer info
 
-Ganesh Mamamatha Sheshapp, 
+Ganesh Mamamatha Sheshappa, 
 
 ganeshms@live.com
 
