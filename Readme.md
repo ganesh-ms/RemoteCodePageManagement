@@ -37,6 +37,7 @@ This can be done by wrapping text that may be hidden with a styled <div>. The ha
 
 ## Project #3 - Code Publisher Client
 ![](client-publisher.jpg)
+
 ### Implement a tabbed display
 The Client display will need at least two views, one for navigating to the directory to be analyzed, and one for displaying a published file.
 ### Navigation view:
@@ -56,6 +57,7 @@ Build a C++\CLI translater to connect the Client GUI to the Code Publisher, buil
 
 ## Project #4 - Remote Code Page Management
 
+![](client-channel-server.jpg)
 ### Implement a communication channel:
 The communication channel was provided as the part of the helper code since it required more time to develop since the code consisted of buffer level interaction. 
 ### Design messages:
